@@ -29,9 +29,9 @@ public class ProjectileManager : MonoBehaviour
         {
             Destroy(this.gameObject);
         }
-
     }
-     void OnTriggerEnter2D(Collider2D collision)
+ 
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.GetComponent<EnemyManager>() != null)
         {

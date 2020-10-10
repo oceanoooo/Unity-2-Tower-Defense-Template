@@ -16,4 +16,4 @@ MonoBehaviour:
   speed: 5
   size: 10
   color: {r: 0.018685404, g: 0.01886791, b: 0.018066913, a: 1}
-  sprite: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+  sprite: {fileID: 21300000, guid: f6bfac13df8fa422281fd5dee4235052, type: 3}

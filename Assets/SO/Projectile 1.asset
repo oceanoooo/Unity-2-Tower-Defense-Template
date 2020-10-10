@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Projectile 1
   m_EditorClassIdentifier: 
   damage: 25
-  speed: 10
+  speed: 5
   size: 5
   color: {r: 0.037083156, g: 0.03773582, b: 0.03577783, a: 1}
-  sprite: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+  sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
